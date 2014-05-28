@@ -1,0 +1,5 @@
+language: haskell
+
+notifications:
+  webhooks:
+    - https://idobata.io/hook/23b0913b-4122-4521-8478-e841a6a3f871
